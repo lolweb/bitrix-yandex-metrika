@@ -1,7 +1,9 @@
 bitrix-yandex-metrika
 =====================
 
-Yandex Metrika module for Bitrix CMS
+Yandex Metrika module for Bitrix CMS.
+Initialy developed by LOL LLC team (http://www.lol.su).
+
 
 Distribution
 ============
