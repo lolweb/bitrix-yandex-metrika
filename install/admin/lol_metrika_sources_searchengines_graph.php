@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/lol.metrika/admin/sources_searchengines_graph.php");?>
